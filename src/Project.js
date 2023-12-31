@@ -1,0 +1,26 @@
+import React from "react";
+import { Link } from "react-router-dom";
+import { Image } from "react-bootstrap";
+
+const Project = ({ title, img, url, desc, techArr }) => {
+  return (
+    <Link to={url} className="project">
+      <Image src={img} alt={title} className="project-img" />
+      <div className="overlay">
+        <h1 className="project-title">
+          <i>{title.toLowerCase()}</i>
+        </h1>
+        <p className="project-desc">{desc}</p>
+        <div className="project-tech">
+          {techArr.map((x) => (
+            <span key={Math.random()} className="tech-item">
+              {x}
+            </span>
+          ))}
+        </div>
+      </div>
+    </Link>
+  );
+};
+
+export default Project;
