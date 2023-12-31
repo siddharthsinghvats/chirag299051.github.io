@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chirag299051.github.io/static/css/main.6166b3f5.css",
-    "main.js": "/chirag299051.github.io/static/js/main.d26a6923.js",
+    "main.js": "/chirag299051.github.io/static/js/main.758470dd.js",
     "static/js/787.369bb0e7.chunk.js": "/chirag299051.github.io/static/js/787.369bb0e7.chunk.js",
     "static/media/movie3.png": "/chirag299051.github.io/static/media/movie3.8f837f75da6b7c793e14.png",
     "static/media/gmart.png": "/chirag299051.github.io/static/media/gmart.d7eff7a58a8c90386866.png",
@@ -29,11 +29,11 @@
     "static/media/angular.svg": "/chirag299051.github.io/static/media/angular.f0cfa2dba5dd6f63852e4f2405d8933a.svg",
     "index.html": "/chirag299051.github.io/index.html",
     "main.6166b3f5.css.map": "/chirag299051.github.io/static/css/main.6166b3f5.css.map",
-    "main.d26a6923.js.map": "/chirag299051.github.io/static/js/main.d26a6923.js.map",
+    "main.758470dd.js.map": "/chirag299051.github.io/static/js/main.758470dd.js.map",
     "787.369bb0e7.chunk.js.map": "/chirag299051.github.io/static/js/787.369bb0e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6166b3f5.css",
-    "static/js/main.d26a6923.js"
+    "static/js/main.758470dd.js"
   ]
 }
