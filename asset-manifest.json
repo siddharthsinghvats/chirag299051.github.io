@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/chirag299051.github.io/static/css/main.6166b3f5.css",
+    "main.js": "/chirag299051.github.io/static/js/main.d26a6923.js",
+    "static/js/787.369bb0e7.chunk.js": "/chirag299051.github.io/static/js/787.369bb0e7.chunk.js",
+    "static/media/movie3.png": "/chirag299051.github.io/static/media/movie3.8f837f75da6b7c793e14.png",
+    "static/media/gmart.png": "/chirag299051.github.io/static/media/gmart.d7eff7a58a8c90386866.png",
+    "static/media/housing.png": "/chirag299051.github.io/static/media/housing.52a289684d2e68f8c0c2.png",
+    "static/media/connectio.png": "/chirag299051.github.io/static/media/connectio.0db72ec1116c1854e4a2.png",
+    "static/media/weather.png": "/chirag299051.github.io/static/media/weather.1511f04674d89f2d33f9.png",
+    "static/media/gtr.png": "/chirag299051.github.io/static/media/gtr.dd069f1d2ab59a1ad921.png",
+    "static/media/tic.png": "/chirag299051.github.io/static/media/tic.597b41dce05390750e18.png",
+    "static/media/redux.png": "/chirag299051.github.io/static/media/redux.fe04b64339963c72ea05.png",
+    "static/media/next.png": "/chirag299051.github.io/static/media/next.c598b80ee38a4a8ef41e.png",
+    "static/media/pic.jpg": "/chirag299051.github.io/static/media/pic.277745e6520c1a93125b.jpg",
+    "static/media/express.png": "/chirag299051.github.io/static/media/express.375eee7619857b2ae37a.png",
+    "static/media/node.png": "/chirag299051.github.io/static/media/node.6f01b9a14007c12aee86.png",
+    "static/media/menu.png": "/chirag299051.github.io/static/media/menu.dc4bfb430d8a092d27c3.png",
+    "static/media/mongodb.svg": "/chirag299051.github.io/static/media/mongodb.1d06b1a7f964329cc6359233067c4f2e.svg",
+    "static/media/fire.png": "/chirag299051.github.io/static/media/fire.65c4fe9f7eb228db7a4c.png",
+    "static/media/react.svg": "/chirag299051.github.io/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
+    "static/media/mysql.svg": "/chirag299051.github.io/static/media/mysql.64f88a817c7f8c20c853ea3acbca9310.svg",
+    "static/media/ts.svg": "/chirag299051.github.io/static/media/ts.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/html.svg": "/chirag299051.github.io/static/media/html.04ad4ab83f740c867197aa984fe8736c.svg",
+    "static/media/es6.svg": "/chirag299051.github.io/static/media/es6.dd23d08a5eb76c6f2393eaf029f44138.svg",
+    "static/media/css.svg": "/chirag299051.github.io/static/media/css.926611385610b2f0ba730d6fd84e47ad.svg",
+    "static/media/bootstrap.svg": "/chirag299051.github.io/static/media/bootstrap.7e9c39a4b427a4d5df3aef6dbf3524c3.svg",
+    "static/media/js.svg": "/chirag299051.github.io/static/media/js.1d3d28798f08ea1ed7cd47f812044c4f.svg",
+    "static/media/angular.svg": "/chirag299051.github.io/static/media/angular.f0cfa2dba5dd6f63852e4f2405d8933a.svg",
+    "index.html": "/chirag299051.github.io/index.html",
+    "main.6166b3f5.css.map": "/chirag299051.github.io/static/css/main.6166b3f5.css.map",
+    "main.d26a6923.js.map": "/chirag299051.github.io/static/js/main.d26a6923.js.map",
+    "787.369bb0e7.chunk.js.map": "/chirag299051.github.io/static/js/787.369bb0e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6166b3f5.css",
+    "static/js/main.d26a6923.js"
+  ]
+}
